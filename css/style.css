@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+div p{
+    padding: 0;
+    margin: 0;
+}
+.div {
+    display: flex;
+    width: 30%;
+    background-color: rgb(107, 235, 107);
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin: 20px;
+    padding: 8px;
+    color: greenyellow;
+    border-radius: 5px;
+}
+.btn-close {
+    height: 23px;
+    text-align: center;
+    background-color: rgb(107, 235, 107);
+    color: greenyellow;
+    margin-left: 0;
+    border: 0px;
+    font-size: 18px;
+}
+
+.fas { 
+   margin-right: 4px;
+}
